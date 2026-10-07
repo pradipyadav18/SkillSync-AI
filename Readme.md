@@ -558,22 +558,23 @@ This project demonstrates practical experience with:
 * **Environment-based configuration**
 
 ---
-
 ## 👨‍💻 Author
 
-### Tushar Agrawal
+### Pradip Lalmani Yadav
 
-**Java Full-Stack Developer | Spring Boot & Microservices | Spring AI**
+**B.E. Computer Engineering | Java Backend Developer**
 
-I am a Computer Engineering graduate focused on building backend and full-stack applications using Java, Spring Boot, Microservices, and AI technologies.
+Computer Engineering graduate focused on building backend and full-stack applications using **Java, Spring Boot, REST APIs, MySQL, and AI technologies**.
 
 ### Connect With Me
 
-* **GitHub:** [TusharAgrawal-Dev](https://github.com/TusharAgrawal-Dev)
-* **LinkedIn:** [Tushar_Agrawal](https://www.linkedin.com/in/tushar-agrawal-945347248/)
+* **GitHub:** [pradipyadav18](https://github.com/pradipyadav18)
+* **LinkedIn:** [Pradip Yadav](https://www.linkedin.com/in/pradip-yadav09/)
+* **LeetCode:** [Pradip Yadav](https://leetcode.com/u/pradip_yadav_15/)
 
 ---
 
 <p align="center">
   Built with Java, Spring Boot, React, Spring AI & Google Gemini
 </p>
+
