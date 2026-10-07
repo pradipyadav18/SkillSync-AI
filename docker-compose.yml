@@ -1,0 +1,26 @@
+services:
+
+  backend:
+    image: skillsync-backend:latest
+    container_name: skillsync-backend
+
+    ports:
+      - "8080:8080"
+
+    environment:
+      GEMINI_API_KEY: ${GEMINI_API_KEY}
+
+    restart: unless-stopped
+
+
+  frontend:
+    image: skillsync-frontend:latest
+    container_name: skillsync-frontend
+
+    ports:
+      - "5173:5173"
+
+    depends_on:
+      - backend
+
+    restart: unless-stopped
